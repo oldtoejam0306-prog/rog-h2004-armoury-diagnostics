@@ -1,0 +1,6 @@
+**/rog-h2004-evidence/
+ROG-H2004-DIAG.txt
+rog-h2004-report.ps1
+rog-h2004-collect.ps1
+rog-asar-inspect.py
+*.log
